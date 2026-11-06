@@ -1,2 +1,3 @@
-# kcpe-social
-KCPE social media images
+# KCPE social images
+
+Public images for KC Property Experts Inspections social media posts.
